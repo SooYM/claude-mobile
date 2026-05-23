@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Claude Mobile icon">
+  <defs>
+    <radialGradient id="g" cx="30%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#8ec5ff"/>
+      <stop offset="100%" stop-color="#0a84ff"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="#000000"/>
+  <circle cx="256" cy="256" r="156" fill="url(#g)"/>
+  <path d="M171 220c0-22 18-40 40-40h90c22 0 40 18 40 40v72c0 22-18 40-40 40h-62l-52 42c-6 5-15 1-15-8v-34h-1c-22 0-40-18-40-40z" fill="#ffffff" opacity="0.92"/>
+</svg>

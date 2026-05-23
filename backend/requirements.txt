@@ -1,0 +1,6 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+pydantic==2.11.4
+pexpect==4.9.0
+python-dotenv==1.0.1
+pyte==0.8.2
